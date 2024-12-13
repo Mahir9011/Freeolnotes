@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Environments
+.env
+venv/
+env/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# Static and media cache
+staticfiles/
+media/

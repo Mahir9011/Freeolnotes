@@ -1,0 +1,37 @@
+/* tinymce_dark.css */
+body {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+}
+
+.mce-content-body a {
+    color: #4caf50;
+}
+
+.mce-content-body h1,
+.mce-content-body h2,
+.mce-content-body h3,
+.mce-content-body h4,
+.mce-content-body h5,
+.mce-content-body h6 {
+    color: #d4d4d4;
+}
+
+.mce-content-body table {
+    border-color: #444;
+}
+
+.mce-content-body table th,
+.mce-content-body table td {
+    border-color: #444;
+}
+
+.mce-content-body blockquote {
+    border-left-color: #4caf50;
+    color: #d4d4d4;
+}
+
+.mce-content-body code {
+    background-color: #2d2d2d;
+    color: #d4d4d4;
+}
